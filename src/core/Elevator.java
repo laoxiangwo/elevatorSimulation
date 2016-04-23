@@ -1,4 +1,8 @@
 package core;
 
-public class Elevator {
+public class Elevator implements Runnable{
+    @Override
+    public void run() {
+
+    }
 }

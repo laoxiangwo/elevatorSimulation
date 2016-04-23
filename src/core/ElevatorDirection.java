@@ -1,4 +1,5 @@
 package core;
 
-public class ElevatorDirection {
+public enum ElevatorDirection {
+    UP, DOWN, STOP
 }

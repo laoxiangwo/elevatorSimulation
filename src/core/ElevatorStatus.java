@@ -1,4 +1,5 @@
 package core;
 
-public class ElevatorStatus {
+public enum ElevatorStatus {
+    OPERATING, MAINTAINNING
 }
