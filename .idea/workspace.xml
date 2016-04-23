@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Elevator.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Elevator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/core/Elevator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.777027">
+            <state vertical-scroll-proportion="0.0">
               <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -43,16 +43,21 @@
         <entry file="file://$PROJECT_DIR$/src/core/ElevatorControl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <element signature="e#1604#1605#0" expanded="true" />
+                <element signature="e#1646#1647#0" expanded="true" />
+                <element signature="e#1692#1693#0" expanded="true" />
+                <element signature="e#1732#1733#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ElevatorSystem.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ElevatorSystem.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/core/ElevatorSystem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.10135135">
               <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
               <folding />
             </state>
@@ -80,8 +85,8 @@
         <option value="$PROJECT_DIR$/src/core/ElevatorStatus.java" />
         <option value="$PROJECT_DIR$/src/core/ElevatorDirection.java" />
         <option value="$PROJECT_DIR$/src/core/Request.java" />
-        <option value="$PROJECT_DIR$/src/core/ElevatorControl.java" />
         <option value="$PROJECT_DIR$/src/core/Elevator.java" />
+        <option value="$PROJECT_DIR$/src/core/ElevatorControl.java" />
       </list>
     </option>
   </component>
@@ -593,12 +598,12 @@
       <created>1461423921826</created>
       <option name="number" value="Default" />
       <updated>1461423921826</updated>
-      <workItem from="1461423923098" duration="3575000" />
+      <workItem from="1461423923098" duration="4262000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3575000" />
+    <option name="totallyTimeSpent" value="4262000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="683" y="27" width="742" height="798" extended-state="0" />
@@ -665,25 +670,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/ElevatorSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/ElevatorControl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/core/Elevator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.777027">
+        <state vertical-scroll-proportion="0.0">
           <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -692,6 +681,27 @@
             <element signature="e#733#734#0" expanded="true" />
             <element signature="e#785#786#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/ElevatorControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#1604#1605#0" expanded="true" />
+            <element signature="e#1646#1647#0" expanded="true" />
+            <element signature="e#1692#1693#0" expanded="true" />
+            <element signature="e#1732#1733#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/ElevatorSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10135135">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
